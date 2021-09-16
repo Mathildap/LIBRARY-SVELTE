@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Box",
+      "author": "Camilla läckberg",
+      "img": "../img/coverimage-box.webp",
+      "onloan": false
+    },
+    {
+      "id": 2,
+      "title": "Agenturen",
+      "author": "Christina Larsson",
+      "img": "../img/coverimage-agenturen.webp",
+      "onloan": false
+    },
+    {
+      "id": 3,
+      "title": "Polcirkeln",
+      "author": "Lisa Marklund",
+      "img": "../img/coverimage-polcirceln.webp",
+      "onloan": true
+    },
+    {
+      "id": 4,
+      "title": "Ett lyckligare år",
+      "author": "Jonas Gardell",
+      "img": "../img/coverimage-ett.jpeg",
+      "onloan": false
+    },
+    {
+      "title": "Maria",
+      "author": "Mia Skäringer",
+      "img": "./img/coverimage-maria.webp",
+      "onloan": false,
+      "id": 5
+    }
+  ]
+}
